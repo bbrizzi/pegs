@@ -8,6 +8,7 @@ NUM_PEGS   = 4
 NUM_COLORS = 6
 SOLVER     = "elimination"
 DEBUG      = True
+# test
 
 def createSolver( solverName ):
     if solverName == "brute":
